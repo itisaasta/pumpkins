@@ -12,6 +12,10 @@ This project helps bring a light up, singing jack-o-lantern to life.
 - Wire
 - Plastic pumpkin
 
+## Assembly
+
+<img src="https://github.com/innovaasta/pumpkins/blob/master/diagram.png" width="800px"/>
+
 ## Getting started
 ### Install Arduino integrated development environment
 In order to program software code for your wearable, you will need to install the Arduino Integrated Development Environment (IDE) on your computer. Please install the Arduino IDE using the link appropriate for your operating system below.
